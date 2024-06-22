@@ -12,7 +12,7 @@ Yousef Husain is a skilled full-stack developer with over four years of experien
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-%230034ff.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
-![svelte](https://img.shields.io/badge/sass-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![svelte](https://img.shields.io/badge/svelte-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![bun](https://img.shields.io/badge/bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
 ## DATABASES

@@ -1,9 +1,6 @@
-## Full-Stack Developer, NextJS Expert | Integrating AI Chatbots
+# Full-Stack Developer | Next.js Expert
 
-I build modern, scalable websites for businesses, eCommerce Platforms, SaaS Solutions, and Dashboards, integrating AI chatbots to enhance user experience and engagement.
-
-## Certificates
-- [View Responsive Web Design Certification](https://www.freecodecamp.org/certification/yousefhusain/responsive-web-design)
+I build modern, scalable websites, e-commerce platforms, and SaaS solutions with AI that make the experience smarter and more interactive.
 
 ## Contact Me
 (1yousefhusain@gmail.com)
